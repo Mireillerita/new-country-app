@@ -5,7 +5,7 @@ import Footer from '../components/Footer'
 const HomeLayout = () => {
   const Flags=[
     {images:<img src='https://flagcdn.com/cy.svg'/>,name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
-    // {images:<img src='https://flagcdn.com/cy.svg'/>,name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
+    {images:<img src='https://flagcdn.com/cy.svg'/>,name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
     // {images:<img src='https://flagcdn.com/cy.svg'/>,name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
     // {name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
     // {name:"Cyprus", capital:"Nicosia", po:"1207361", reg:"Europe"},
